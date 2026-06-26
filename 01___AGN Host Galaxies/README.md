@@ -40,9 +40,10 @@ After running the fit with `bagpipes.fit()`, the results are compiled and plotte
 Additionally, for this notebook the results are placed within a `csv` to save the results of all galaxies BAGPIPES runs on.
 
 ## Comparative Analysis
-### AGN hosts
 
 ![AGN and Star-forming parameter distributions](../plots/parameter_comparison.png)
+
+### AGN hosts
 
 | Parameter | Mean 16th percentile | Mean 50th Percentile | Mean 84th percentile |
 | :--- | :---: | :---: | :---: |
